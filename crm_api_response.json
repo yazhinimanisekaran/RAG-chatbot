@@ -1,0 +1,60 @@
+{
+  "api": "TechCorp CRM API v2",
+  "generated_at": "2025-02-17T09:00:00Z",
+  "customers": [
+    {
+      "id": "C001",
+      "name": "Acme Corp",
+      "plan": "Enterprise",
+      "mrr": 12000,
+      "status": "Active",
+      "contacts": [
+        {
+          "name": "Alice Brown",
+          "role": "CTO",
+          "email": "alice@acme.com"
+        }
+      ],
+      "last_activity": "2025-02-10",
+      "nps_score": 9
+    },
+    {
+      "id": "C002",
+      "name": "Globex Industries",
+      "plan": "Pro",
+      "mrr": 3500,
+      "status": "Active",
+      "contacts": [
+        {
+          "name": "Bob Lee",
+          "role": "Head of IT",
+          "email": "bob@globex.com"
+        }
+      ],
+      "last_activity": "2025-01-28",
+      "nps_score": 7
+    },
+    {
+      "id": "C003",
+      "name": "Initech Solutions",
+      "plan": "Starter",
+      "mrr": 800,
+      "status": "Churned",
+      "contacts": [
+        {
+          "name": "Carol King",
+          "role": "CEO",
+          "email": "carol@initech.com"
+        }
+      ],
+      "last_activity": "2024-11-05",
+      "nps_score": 3
+    }
+  ],
+  "summary": {
+    "total_customers": 3,
+    "active_customers": 2,
+    "total_mrr": 16300,
+    "avg_nps": 6.3
+  }
+}

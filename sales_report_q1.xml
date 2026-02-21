@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SalesReport quarter="Q1-2025" generated="2025-02-17">
+  <summary>
+    <total_revenue currency="USD">1450000</total_revenue>
+    <total_deals>38</total_deals>
+    <avg_deal_size>38157</avg_deal_size>
+    <quota_attainment percent="96.7"/>
+  </summary>
+  <regions>
+    <region name="North America">
+      <revenue>820000</revenue>
+      <deals>20</deals>
+      <top_rep>Sarah Williams</top_rep>
+    </region>
+    <region name="Europe">
+      <revenue>430000</revenue>
+      <deals>12</deals>
+      <top_rep>James Patel</top_rep>
+    </region>
+    <region name="Asia Pacific">
+      <revenue>200000</revenue>
+      <deals>6</deals>
+      <top_rep>Mei Zhang</top_rep>
+    </region>
+  </regions>
+  <top_products>
+    <product rank="1" name="RAG Assistant Enterprise" revenue="650000"/>
+    <product rank="2" name="Analytics Dashboard Pro" revenue="480000"/>
+    <product rank="3" name="Data Pipeline Suite" revenue="320000"/>
+  </top_products>
+</SalesReport>

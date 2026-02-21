@@ -1,0 +1,24 @@
+AI & Machine Learning Overview
+================================
+
+What is Artificial Intelligence?
+Artificial Intelligence (AI) refers to the simulation of human intelligence
+in machines. AI systems can perform tasks such as reasoning, learning,
+problem-solving, perception, and language understanding.
+
+What is Machine Learning?
+Machine Learning (ML) is a subset of AI where systems learn from data
+without being explicitly programmed. Key types include:
+  - Supervised Learning: learns from labeled data (e.g. spam detection)
+  - Unsupervised Learning: finds patterns in unlabeled data (e.g. clustering)
+  - Reinforcement Learning: learns through rewards & penalties (e.g. game AI)
+
+What is Deep Learning?
+Deep Learning uses multi-layer neural networks to model complex patterns.
+It powers image recognition, speech synthesis, and large language models.
+
+Key Applications:
+  - Natural Language Processing (NLP): chatbots, translation, summarisation
+  - Computer Vision: face recognition, medical imaging
+  - Recommendation Systems: Netflix, Spotify, Amazon
+  - Autonomous Vehicles: self-driving cars, drones

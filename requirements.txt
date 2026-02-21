@@ -1,0 +1,32 @@
+# Core LangChain stack
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-huggingface>=0.1.0
+langchain-groq>=0.2.0
+langchain-experimental>=0.3.0
+
+# Embedding model
+sentence-transformers>=2.7.0
+
+# Vector stores
+chromadb>=0.5.0
+faiss-cpu>=1.8.0
+
+# PDF parsing
+pypdf>=4.0.0
+pymupdf>=1.24.0
+
+# API
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+
+# Frontend
+streamlit>=1.39.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+numpy>=1.26.4
+requests>=2.32.0

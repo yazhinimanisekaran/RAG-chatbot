@@ -1,0 +1,9 @@
+employee_id,name,department,role,salary,hire_date,performance_rating,remote_days
+E001,Alice Johnson,Engineering,Senior Engineer,112000,2020-03-15,Outstanding,4
+E002,Bob Martinez,Engineering,Junior Engineer,72000,2023-06-01,Meets Expectations,3
+E003,Carol Chen,Data & Analytics,Data Scientist,105000,2021-09-10,Exceeds Expectations,4
+E004,David Kim,Product,Product Manager,115000,2019-11-20,Outstanding,2
+E005,Eva Patel,Data & Analytics,ML Engineer,118000,2022-01-05,Exceeds Expectations,4
+E006,Frank Thompson,Engineering,DevOps Engineer,98000,2020-07-22,Meets Expectations,3
+E007,Grace Liu,Product,UX Designer,88000,2022-03-14,Exceeds Expectations,4
+E008,Henry Brown,Engineering,Backend Engineer,95000,2021-05-30,Meets Expectations,3
